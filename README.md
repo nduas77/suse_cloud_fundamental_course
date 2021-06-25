@@ -1,0 +1,1 @@
+# suse_cloud_fundamental_course
